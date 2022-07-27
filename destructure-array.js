@@ -1,1 +1,0 @@
-console.log("Javascript Datastructure and Algorithms")
